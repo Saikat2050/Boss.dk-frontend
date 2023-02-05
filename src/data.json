@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "task": "Create buukit App",
+        "description": "Setup db",
+        "status": "active",
+        "remark": null,
+        "scheduledDate": "2023-02-02 00:00:00",
+        "priority": "high",
+        "currentStatus": "pending",
+        "assignTo": 1,
+        "assignBy": 1
+    },
+    {
+        "id": 2,
+        "task": "Anumati-pass",
+        "description": "Setup db for anumati-pass",
+        "status": "active",
+        "remark": null,
+        "scheduledDate": "2023-02-02 00:00:00",
+        "priority": "high",
+        "currentStatus": "Done",
+        "assignTo": 1,
+        "assignBy": 1
+    },
+    {
+        "id": 3,
+        "task": "crm",
+        "description": "Setup db for crm",
+        "status": "active",
+        "remark": null,
+        "scheduledDate": "2023-02-02 00:00:00",
+        "priority": "high",
+        "currentStatus": "pending",
+        "assignTo": 1,
+        "assignBy": 1
+    },
+    {
+        "id": 4,
+        "task": "klassApp",
+        "description": "Setup db for klassApp",
+        "status": "active",
+        "remark": null,
+        "scheduledDate": "2023-02-02 00:00:00",
+        "priority": "high",
+        "currentStatus": "pending",
+        "assignTo": 1,
+        "assignBy": 1
+    }
+]
